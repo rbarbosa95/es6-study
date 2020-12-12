@@ -25,3 +25,7 @@ ul#repo-list li .uk-custom-infos p {
   padding: 0;
   margin: 0 0 1rem 0;
 }
+
+ul#repo-list li a.uk-button {
+  max-width: 150px;
+}
